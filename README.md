@@ -1,6 +1,6 @@
 # QNX屏幕绘制示例项目
 
-[切换到英文版README](README_EN.md)
+[Switch to English README](README_EN.md)
 
 ## 项目简介
 
