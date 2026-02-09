@@ -1,6 +1,6 @@
 # QNX screen Drawing Example Project
 
-[Switch to Chinese README](README.md)
+[切换到中文版README](README.md)
 
 ## Project Introduction
 
